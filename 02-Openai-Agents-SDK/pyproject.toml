@@ -1,0 +1,11 @@
+[project]
+name = "02-openai-agents-sdk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "dotenv>=0.9.9",
+    "eval-type-backport>=0.3.1",
+    "openai-agents>=0.8.4",
+]
